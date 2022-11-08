@@ -1,4 +1,4 @@
 ---
-title: "stupid hazim"
+title: "1"
 date: 2022-11-08
 ---
