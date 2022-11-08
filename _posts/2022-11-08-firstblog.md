@@ -1,4 +1,4 @@
 ---
-title: "First zhihow main Blog"
+title: "stupid hazim"
 date: 2022-11-08
 ---
